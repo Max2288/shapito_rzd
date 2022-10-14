@@ -1,0 +1,7 @@
+https://krasnodar.hh.ru/analytics_source/vacancy/69529590?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+senior&requestId=166570968813181834553b5c37c72c26&totalVacancies=22&position=12&source=vacancies
+https://krasnodar.hh.ru/resume/7072685a0005b58eb00039ed1f45676d4b4c62?query=%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4+senior&hhtmFrom=resume_search_result
+https://krasnodar.hh.ru/resume/d2479af90004e776300039ed1f676648726463?query=%D0%B4%D0%B5%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80+%D1%81%D0%B0%D0%B9%D1%82%D0%B0&hhtmFrom=resume_search_result
+https://pythonru.com/uroki/chtenie-i-zapis-fajlov-excel-xlsx-v-python
+https://www.nltk.org/
+https://openpyxl.readthedocs.io/en/stable/
+https://tilda.education/articles-figma
